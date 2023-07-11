@@ -53,10 +53,13 @@ See license.txt for additional details.
          
          
          
-## TURULO WIRING:          
-| Funcionality  | Peripheral | Pins |
-| ------------- | ------------- | ------------- |
-| OLED color screen  | SPI+2GPIOS | SCL,SDA,CS,DS,RES,BLK  |
-| Rotary encoder + button  | Timer encoder mode +1GPIO | ?  |
-| Buzzer  | Simple PWM | ?  |
+## TURULO WIRING:       
+![image](https://github.com/javiBajoCero/Adafruit-Feather-STM32F405-Express-PCB/assets/25673527/9afe1c0d-d19c-425a-8b14-377feaf41bd4)
+
+
+| Funcionality  | Peripheral & pin usage | Pins STM32| Pins feather board|
+| ------------- | ------------- | ------------- | ------------- |
+| ST7735s screen  | SPI+3GPIOS | PB15, PB13, PC5 ,PC4 ,PA4  | MO, SCK, A5 ,A4 ,A0  |
+| Rotary encoder + button  | Timer3ch1&2 encoder mode + GPIOa5 | PA7, PA6, PA5  | A3, A2, A1  |
+| Buzzer  | Timer4 ch4 PWM | PB9  | D10  |
 | LED array  | TIMER PWM +DMA | ?  |
