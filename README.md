@@ -44,3 +44,19 @@ Designed by Limor Fried/Ladyada for Adafruit Industries.
 
 Creative Commons Attribution/Share-Alike, all text above must be included in any redistribution. 
 See license.txt for additional details.
+
+
+
+
+
+
+         
+         
+         
+## TURULO WIRING:          
+| Funcionality  | Peripheral | Pins |
+| ------------- | ------------- | ------------- |
+| OLED color screen  | SPI+2GPIOS | SCL,SDA,CS,DS,RES,BLK  |
+| Rotary encoder + button  | Timer encoder mode +1GPIO | ?  |
+| Buzzer  | Simple PWM | ?  |
+| LED array  | TIMER PWM +DMA | ?  |
