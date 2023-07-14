@@ -54,7 +54,8 @@ See license.txt for additional details.
          
          
 ## TURULO WIRING:       
-![image](https://github.com/javiBajoCero/Adafruit-Feather-STM32F405-Express-PCB/assets/25673527/9afe1c0d-d19c-425a-8b14-377feaf41bd4)
+![image](https://github.com/javiBajoCero/Adafruit-Feather-STM32F405-Express-PCB/assets/25673527/68c094dd-f0e4-492b-a4f3-f33faba64f6c)
+
 
 
 | Funcionality  | Peripheral & pin usage | Pins STM32| Pins feather board|
