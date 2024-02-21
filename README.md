@@ -64,3 +64,9 @@ See license.txt for additional details.
 | Rotary encoder + button  | Timer3ch1&2 encoder mode + GPIOa5 | PA7, PA6, PA5  | A3, A2, A1  |
 | Buzzer  | Timer4 ch4 PWM | PB9  | D10  |
 | LED array  | TIMER PWM +DMA | ?  |
+
+
+
+## DC-DC ñapa:     
+I am cutting a pcb trace in between the linear voltage regulator and both battery and usb sources, im sticking a TI dcdc converter in between configured to output about 15amps at 5v to drive huge neopixel stripes.    
+![image](https://github.com/javiBajoCero/Adafruit-Feather-STM32F405-Express-PCB/assets/25673527/a99de829-7231-45c9-b96d-d22daba784a3)
