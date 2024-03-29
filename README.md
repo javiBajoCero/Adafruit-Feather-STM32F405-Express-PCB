@@ -69,4 +69,5 @@ See license.txt for additional details.
 
 ## DC-DC ñapa:     
 I am cutting a pcb trace in between the linear voltage regulator and both battery and usb sources, im sticking a TI dcdc converter in between configured to output about 15amps at 5v to drive huge neopixel stripes.    
-![image](https://github.com/javiBajoCero/Adafruit-Feather-STM32F405-Express-PCB/assets/25673527/a99de829-7231-45c9-b96d-d22daba784a3)
+![image](https://github.com/javiBajoCero/Adafruit-Feather-STM32F405-Express-PCB/assets/25673527/bdc73011-b4bb-4ae8-a2e3-91b998403324)
+
