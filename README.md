@@ -69,6 +69,9 @@ See license.txt for additional details.
 
 ## DC-DC ñapa:     
 I am cutting a pcb trace in between the linear voltage regulator and both battery and usb sources, im sticking a TI dcdc converter in between configured to output about 15amps at 5v to drive huge neopixel stripes.    
-![image](https://github.com/javiBajoCero/Adafruit-Feather-STM32F405-Express-PCB/assets/25673527/86f08b35-43c3-4243-8711-b656fb567473)
+![image](https://github.com/javiBajoCero/Adafruit-Feather-STM32F405-Express-PCB/assets/25673527/86f08b35-43c3-4243-8711-b656fb567473)    
+As a result, it works BUT there is very annoying noise, probably comming from the DC DC commutation, i need to figure out how to increase the commutation frequency way out of audible range
+![image](https://github.com/javiBajoCero/Adafruit-Feather-STM32F405-Express-PCB/assets/25673527/4960e8b1-ce35-4e71-b96f-a48389497a8c)
+
 
 
