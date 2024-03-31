@@ -75,5 +75,6 @@ As a result, it works BUT there is very annoying noise, probably comming from th
 
 Texas isntruments webbench edesign tool https://webench.ti.com/power-designer/switching-regulator?powerSupply=0
 
-
+easyeda project
+https://easyeda.com/editor?from=oshwlab#id=5c12cc9cc3424c4681d19786e254da1a|1e2ba25011be4c30928411e7220a524e
 
